@@ -1,9 +1,12 @@
+import Chai from "./chai";
 function App() {
   return (
-    <div>
-      <h1>React With Vite || Syed Saad Raza</h1>
-    </div>
-  )
+    <>
+      <Chai />
+      <h1>React With Vite by Syed Saad</h1>
+      <p>React is a library of JavaScript</p>
+    </>
+  );
 }
 
-export default App
+export default App;

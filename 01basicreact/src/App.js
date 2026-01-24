@@ -1,8 +1,9 @@
+import Chai  from "./chai";
 function App() {
   return (
     <div>
-      <h1>Assalam-u-Alikum || Syed Saad Raza</h1>
-      <p>I am Saad and I Want to become a Engineer</p>
+      <Chai /> 
+      <h1>Best YT Series in Coding HC</h1>
     </div>
   );
 }
